@@ -1,0 +1,18 @@
+.h-scroll {
+	height: 50vh;
+	position: fixed;
+	overflow-y: scroll;
+}
+.inline {
+	display: inline-block;
+}
+.affiche {
+	text-decoration: none;
+	display: block;
+	text-align: center;
+	font-size: 3em;
+}
+.affiche:hover {
+	background-color: rgba(230,230,230,50);
+	text-decoration: none;
+}
